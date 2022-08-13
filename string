@@ -1,0 +1,6 @@
+to check uppercase -> toupper(char)
+
+to check lowercase -> tolower(char)
+
+convert uppercase to lowercase -> tolowe(char)
+convert lowercase to uppercase -> toupper(char)
